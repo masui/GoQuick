@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Bookmarks</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link href="/stylesheets/memo.css" type="text/css" rel="stylesheet">
+    <link href="/stylesheets/bootstrap.css" rel="stylesheet" media="screen">
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </head>
+  <body style="margin:5pt;">
+    <h3><i>List of <%= @username %>'s bookmarks</i></h3>
+
+    <div class="container">
+      <div class="span11">
+	<table class="table table-striped table-hover table-bordered table-condensed">
+	  <%
+	    @data.to_a.sort { |a,b|
+              a['shortname'].to_s <=> b['shortname'].to_s
+	    }.each { |e|
+	  %>
+            <% if e['longname'].to_s != ''&& e['shortname'].to_s != '' %>
+              <tr>
+                <td class="span2"><a href="/<%= e['shortname'] %>"><%= e['shortname'] %></a></td>
+                <% if e['longname'] =~ /^http/ %>
+                  <td><a href="<%= e['longname'] %>"><%= e['longname'] %></a></td>
+                <% else %>
+                  <td><%= e['longname'] %></td>
+                <% end %>
+              </tr>
+            <% end %>
+          <% } %>
+  	</table>
+      </div>
+    </div>
+	  
+    <form name="logout" method="get" action="/_login" class="form-horizontal">
+      <div class="control-group">
+	<button type="submit" class="btn btn-primary">Logout</button>
+      </div>
+    </form>
+
+    <hr>
+
+    <%= erb :form %>
+    
+  </body>
+</html>

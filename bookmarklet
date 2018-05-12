@@ -1,0 +1,8 @@
+javascript:
+(function(){
+    w=window.open();
+    desc=window.getSelection();
+    if(desc=='') desc=document.title;
+    url=document.location.href;
+    w.location.href='http://QuickBM.com/_edit?longname='+escape(url)+'&description='+encodeURIComponent(desc);
+})()

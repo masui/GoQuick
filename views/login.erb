@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link href="/stylesheets/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="/stylesheets/memo.css" rel="stylesheet" media="screen">
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </head>
+  <body style="margin:5pt;">
+    <h3>QuickBM Login</h3>
+    <form name="postform" method="post" enctype="application/x-www-form-urlencoded" action="/" class="form-horizontal">
+      <div class="control-group">
+	<label class="control-label" for="short">User:</label>
+	<div class="controls">
+	  <input type="text" name="username" placeholder = "e.g. masui" class="input-normal" value='<%= "" %>'>
+	</div>
+      </div>
+      <div class="control-group">
+	<label class="control-label" for="short">Password:</label>
+	<div class="controls">
+	  <input type="password" name="password" placeholder = "e.g. qawsedrftg" class="input-normal" value='<%= "" %>'>
+	</div>
+      </div>
+      <div class="control-group">
+	<div class="controls">
+	  <button type="submit" class="btn btn-primary">Go</button>
+	</div>
+      </div>
+    </form>
+  </body>
+</html>
