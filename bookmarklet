@@ -4,5 +4,5 @@ javascript:
     desc=window.getSelection();
     if(desc=='') desc=document.title;
     url=document.location.href;
-    w.location.href='http://QuickBM.com/_edit?longname='+escape(url)+'&description='+encodeURIComponent(desc);
+    w.location.href='http://GoQuick.org/_edit?longname='+escape(url)+'&description='+encodeURIComponent(desc);
 })()
