@@ -24,6 +24,7 @@ def getcookie
 end
 
 get '/_login' do
+  cookies[:username] = ''
   erb :login
 end
 
