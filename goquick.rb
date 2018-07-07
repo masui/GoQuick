@@ -88,7 +88,10 @@ end
 get '/' do
   getcookie
   # リスト表示
-  @data = $bmdb.find({hash: @hash})
+  @data = {}
+  if @hash.to_s != ''
+    @data = $bmdb.find({hash: @hash})
+  end
   erb :list
 end
 
