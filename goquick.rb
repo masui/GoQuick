@@ -79,7 +79,7 @@ get '/:name!' do |shortname|
 end
 
 post '/' do # ログインフォームから
-  set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 100
+  # set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 100
   
   cookies[:username] = params['username'].to_s
   cookies[:hash] = Digest::MD5.hexdigest(params['username'].to_s + params['password'].to_s)
@@ -89,7 +89,7 @@ end
 
 get '/' do
   # set :cookie_options, { domain: 'example.com', path: '/' }
-  set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 100
+  # set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 100
   
   getcookie
   # リスト表示
