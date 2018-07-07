@@ -15,7 +15,6 @@ $bmdb = Mongo::Client.new(ENV['MONGODB_URI'])[:quickbm]
 configure do
   set :root, File.dirname(__FILE__)
   set :public_folder, settings.root + '/public'
-  
   set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 100
 end
 
@@ -81,8 +80,6 @@ get '/:name!' do |shortname|
 end
 
 post '/' do # ログインフォームから
-  # set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 100
-  
   cookies[:username] = params['username'].to_s
   cookies[:hash] = Digest::MD5.hexdigest(params['username'].to_s + params['password'].to_s)
   getcookie
@@ -90,9 +87,6 @@ post '/' do # ログインフォームから
 end
 
 get '/' do
-  # set :cookie_options, { domain: 'example.com', path: '/' }
-  # set :cookie_options, { expires: Time.now + 24 * 60 * 60 * 100 }
-  
   getcookie
   # リスト表示
   @data = {}
