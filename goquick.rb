@@ -89,7 +89,7 @@ end
 
 get '/' do
   # set :cookie_options, { domain: 'example.com', path: '/' }
-  # set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 100
+  set :cookie_options, { expires: Time.now + 24 * 60 * 60 * 100 }
   
   getcookie
   # リスト表示
