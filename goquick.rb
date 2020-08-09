@@ -5,6 +5,7 @@ $:.unshift File.expand_path 'lib', File.dirname(__FILE__)
 
 require 'sinatra'
 require 'sinatra/cookies'
+require 'sinatra/cross_origin'
 require 'mongo'
 require 'json'
 require 'digest/md5'
@@ -16,6 +17,7 @@ configure do
   set :root, File.dirname(__FILE__)
   set :public_folder, settings.root + '/public'
   set :cookie_options, :expires => Time.now + 24 * 60 * 60 * 1000
+  enable :cross_origin
 end
 
 def getcookie
