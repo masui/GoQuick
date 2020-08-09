@@ -20,6 +20,10 @@ configure do
   enable :cross_origin
 end
 
+before do
+  response.headers['Access-Control-Allow-Origin'] = '*'
+end
+
 def getcookie
   @username = cookies[:username].to_s
   @hash = cookies[:hash].to_s
