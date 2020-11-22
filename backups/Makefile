@@ -1,2 +1,0 @@
-backup:
-	ruby backup.rb
