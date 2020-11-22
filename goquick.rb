@@ -11,7 +11,7 @@ require 'json'
 require 'digest/md5'
 require 'cgi'
 
-$bmdb = Mongo::Client.new(ENV['MONGODB_URI'])[:quickbm]
+$bmdb = Mongo::Client.new(ENV['MONGODB_URI'])[:goquick]
 
 configure do
   set :root, File.dirname(__FILE__)

@@ -1,3 +1,4 @@
+
 # coding: utf-8
 #
 # Mongoデータをバックアップ
@@ -5,7 +6,7 @@
 
 require 'date'
 
-config = `heroku config -a episopass`
+config = `heroku config -a quickbm`
 config.split(/\n/).each { |line|
   if line =~ /^MONGODB_URI:\s+(.*)$/
     URI = $1
