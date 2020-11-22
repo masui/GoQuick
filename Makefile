@@ -8,7 +8,7 @@
 
 # ローカルにSinatraを走らせる
 local:
-	MONGODB_URI=`heroku config -a quickbm | grep MONGODB_URI | ruby -n -e 'puts $$_.split[1]'` ruby goquick.rb
+	MONGODB_URI=`heroku config -a quickgo | grep MONGODB_URI | ruby -n -e 'puts $$_.split[1]'` ruby goquick.rb
 
 # /backupsにバックアップ
 backup:
