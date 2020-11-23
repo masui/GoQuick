@@ -15,6 +15,11 @@ backup:
 	mongoexport --uri=`heroku config -a quickbm | grep MONGODB_URI | ruby -n -e 'puts $$_.split[1].sub(/\?.*$$/,"")'` -c goquick -o backups/`ruby -e 'puts Time.now.strftime("%Y%m%d%H%M%S")'`.json
 	make push
 
+backup2:
+	mongoexport --uri=`heroku config -a quickbm | grep MONGODB_URI | ruby -n -e 'puts $$_.split[1].sub(/\?.*$$/,"")'` -c goquick -o backup.json
+	git commit -a -m backup	
+	git push git@github.com:masui/GoQuick.git
+
 clean:
 	/bin/rm -f *~ */*~
 
