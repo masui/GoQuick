@@ -26,3 +26,11 @@
 {"_id":{"$oid":"5fbb13841b8fc20004dd46b2"},"hash":"7948c0d6f4a89642d9871cf9bb7c19ee","shortname":"tw","longname":"https://twitter.com/home","description":""}
 {"_id":{"$oid":"5fbb37258fb06f0004c0a4d8"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sfc","longname":"https://sol.sfc.keio.ac.jp/","description":"ダッシュボード"}
 {"_id":{"$oid":"5fbb4f49a7ddae0004ac3d21"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hoshu","longname":"https://hosyusokuhou.jp/","description":"保守速報"}
+{"_id":{"$oid":"5fbb7b24da2b740004ff9358"},"hash":"0f40a3fef51484fb579fc0e6515b5ef4","shortname":"sat","longname":"https://scrapbox.io/satake/","description":"satake"}
+{"_id":{"$oid":"5fbb7b3bda2b740004ff9359"},"hash":"0f40a3fef51484fb579fc0e6515b5ef4","shortname":"mal","longname":"https://app.slack.com/client/T02AFRBD9/C02AFRBDH","description":"Slack | general | masuilab"}
+{"_id":{"$oid":"5fbb7b42da2b740004ff935a"},"hash":"0f40a3fef51484fb579fc0e6515b5ef4","shortname":"mas","longname":"https://scrapbox.io/masuilab/","description":"🍶 増井研 🍺🍷"}
+{"_id":{"$oid":"5fbb7b60da2b740004ff935b"},"hash":"0f40a3fef51484fb579fc0e6515b5ef4","shortname":"aa","longname":"https://github.com/abema/abema-android/","description":"abema/abema-android: ABEMA Android application"}
+{"_id":{"$oid":"5fbb7b76da2b740004ff935c"},"hash":"0f40a3fef51484fb579fc0e6515b5ef4","shortname":"pr","longname":"https://github.com/pulls/review-requested","description":"Pull Requests"}
+{"_id":{"$oid":"5fbb8604da2b740004ff935d"},"hash":"a784ccef863a84d5ab6f4f6f3fd3498e","shortname":"noma","longname":"","description":""}
+{"_id":{"$oid":"5fbb86a4da2b740004ff935f"},"hash":"a784ccef863a84d5ab6f4f6f3fd3498e","shortname":"amakusa","longname":"https://www.t-island.jp/","description":"観光協会"}
+{"_id":{"$oid":"5fbc34b0da2b740004ff9360"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"memo","longname":"http://pitecan.com/memo.html","description":""}
