@@ -18,6 +18,8 @@ clean:
 	/bin/rm -f *~ */*~
 
 push:
+	git add backups/*.json
+	git commit -a -m backup	
 	git push git@github.com:masui/GoQuick.git
 
 favicon:
