@@ -35,3 +35,7 @@
 {"_id":{"$oid":"5fbb86a4da2b740004ff935f"},"hash":"a784ccef863a84d5ab6f4f6f3fd3498e","shortname":"amakusa","longname":"https://www.t-island.jp/","description":"観光協会"}
 {"_id":{"$oid":"5fbc34b0da2b740004ff9360"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"memo","longname":"http://pitecan.com/memo.html","description":""}
 {"_id":{"$oid":"5fbc4ef7aa9d200004c3f13c"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"us","longname":"https://news-us.org/","description":"News U.S.｜米国や韓国の経済、在韓米軍、韓国株の話題など。"}
+{"_id":{"$oid":"5fbc50d8a3282b0004e09c1b"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sol","longname":"https://sol.sfc.keio.ac.jp/login/ldap","description":"Canvas にログイン"}
+{"_id":{"$oid":"5fbc5723a3282b0004e09c1c"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"new","longname":"https://scrapbox.io/stream/kento-problem2/","description":"kento-problem2"}
+{"_id":{"$oid":"5fbc573ba3282b0004e09c1d"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"kento","longname":"https://scrapbox.io/stream/kento-problem2/","description":"kento-problem2"}
+{"_id":{"$oid":"5fbc59a2a3282b0004e09c1e"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"l","longname":"https://gyazo.com/latest","description":""}
