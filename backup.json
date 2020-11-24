@@ -44,3 +44,5 @@
 {"_id":{"$oid":"5fbc5bb368d4e20004036606"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tos","longname":"https://scrapbox.io/toshiyukimasui/","description":"増井個人情報"}
 {"_id":{"$oid":"5fbc5bd268d4e20004036607"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"masui","longname":"https://scrapbox.io/masui/","description":"増井俊之"}
 {"_id":{"$oid":"5fbc5beb68d4e20004036608"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"lab","longname":"https://scrapbox.io/masuilab/","description":"🍶 増井研 🍺🍷"}
+{"_id":{"$oid":"5fbc63b171572f000402463a"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"library1","longname":"http://masui.org/_276a8b55bbfaa963e2028dd7dd8dadd2.mp4","description":""}
+{"_id":{"$oid":"5fbc63d771572f000402463b"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"riku","longname":"http://masui.org/_174212004c004926378e364d615ab400.mp4","description":""}
