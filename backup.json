@@ -62,3 +62,4 @@
 {"_id":{"$oid":"5fbdb4364ab3e800041e2e8d"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"menthas","longname":"https://menthas-dev.herokuapp.com/","description":"Menthas"}
 {"_id":{"$oid":"5fbdc684761ca80004d76078"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"weblio","longname":"https://ejje.weblio.jp/","description":"英和辞典・和英辞典 - Weblio辞書"}
 {"_id":{"$oid":"5fbdc694761ca80004d76079"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"dict","longname":"https://dictionary.goo.ne.jp/","description":"goo辞書 - 国語・英語・四字熟語のオンライン辞書"}
+{"_id":{"$oid":"5fbdcb9c101b7b00046039b0"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"akagi","longname":"https://scrapbox.io/akagi-masui/","description":"akagi-masui"}
