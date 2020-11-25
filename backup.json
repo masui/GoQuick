@@ -8,7 +8,6 @@
 {"_id":{"$oid":"5fba4b3483b53700041b5d53"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"cf","longname":"https://scrapbox.io/masui-family/%E7%95%AA%E5%8F%B7%E6%95%B4%E7%90%86","description":"番号整理 - masui-family"}
 {"_id":{"$oid":"5fba4b5283b53700041b5d54"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"TODO","longname":"https://scrapbox.io/toshiyukimasui/TODO","description":"TODO - 増井個人情報"}
 {"_id":{"$oid":"5fba4c0f83b53700041b5d55"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"zoom","longname":"https://keio-univ.zoom.us/meeting#/upcoming","description":"マイミーティング - Zoom"}
-{"_id":{"$oid":"5fba615183b53700041b5d56"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"map","longname":"https://www.google.com/maps/@35.3318831,139.45677,15z","description":"Google マップ"}
 {"_id":{"$oid":"5fba6f3a83b53700041b5d57"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"house","longname":"https://www.internet-radio.com/stations/house/","description":"House Radio Stations"}
 {"_id":{"$oid":"5fbae6e783b53700041b5d58"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"p","longname":"http://www.pitecan.com/p/?shortname=p__","description":"Index of /p"}
 {"_id":{"$oid":"5fbb07451ab5a10004dced51"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"c","longname":"https://scrapbox.io/masui-family/%E7%95%AA%E5%8F%B7%E6%95%B4%E7%90%86","description":"番号整理 - masui-family"}
@@ -63,3 +62,5 @@
 {"_id":{"$oid":"5fbdc684761ca80004d76078"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"weblio","longname":"https://ejje.weblio.jp/","description":"英和辞典・和英辞典 - Weblio辞書"}
 {"_id":{"$oid":"5fbdc694761ca80004d76079"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"dict","longname":"https://dictionary.goo.ne.jp/","description":"goo辞書 - 国語・英語・四字熟語のオンライン辞書"}
 {"_id":{"$oid":"5fbdcb9c101b7b00046039b0"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"akagi","longname":"https://scrapbox.io/akagi-masui/","description":"akagi-masui"}
+{"_id":{"$oid":"5fbdcbeec45fec0004ab9909"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"iniad","longname":"https://scrapbox.io/masui-iniad-2020/","description":"東洋大学INIAD講演"}
+{"_id":{"$oid":"5fbde00cc45fec0004ab990a"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"map","longname":"https://www.google.com/maps/@35.3625819,139.5121308,15z","description":"Google マップ"}
