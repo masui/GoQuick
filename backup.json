@@ -55,3 +55,5 @@
 {"_id":{"$oid":"5fbcdece0ab3420004e9d6c2"},"hash":"7337a9c2ceff36ee2a73d1b0edf54526","shortname":"google","longname":"https://www.google.co.jp/","description":"Google"}
 {"_id":{"$oid":"5fbd0f084dafec00041efd90"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"map","longname":"https://www.google.com/maps","description":"google map"}
 {"_id":{"$oid":"5fbd0f304dafec00041efd91"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"cha","longname":"https://github.com/ispec-inc/chieru-api","description":"chieru api"}
+{"_id":{"$oid":"5fbda2753547890004c26d65"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"chigasaki","longname":"https://gyazo.com/14925dbfa784f412e9edcd84f27a27f4","description":"https://www.google.com/maps/@35.33815555555555,139.46276666666665,14z"}
+{"_id":{"$oid":"5fbda2993547890004c26d66"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tsujido","longname":"https://gyazo.com/be1c554bb8587a9e729a5c8131080061","description":"辻堂バス時刻表"}
