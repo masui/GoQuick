@@ -68,3 +68,7 @@
 {"_id":{"$oid":"5fbe3b0cf979ca0004211b39"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"Go","longname":"https://scrapbox.io/GoQuick/使い方","description":"Go quickの使い方"}
 {"_id":{"$oid":"5fbe4d5cf979ca0004211b3a"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"earth","longname":"https://earth.google.com/web","description":""}
 {"_id":{"$oid":"5fbe4f2df979ca0004211b3b"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"もてぎ","longname":"https://www.twinring.jp/","description":"ツインリンクもてぎ"}
+{"_id":{"$oid":"5fbecfdf78298d0004948bb7"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"j","longname":"http://jaf-sports.jp/","description":"JAFモータースポーツ"}
+{"_id":{"$oid":"5fbef91178298d0004948bb8"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sfc-vis2020","longname":"https://scrapbox.io/sfc-vis2020/","description":"sfc-vis2020"}
+{"_id":{"$oid":"5fbf029378298d0004948bb9"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"nota","longname":"https://scrapbox.io/Nota/","description":"Nota"}
+{"_id":{"$oid":"5fbf200478298d0004948bba"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmpx","longname":"https://mail.google.com/mail/u/1/#inbox/WhctKJWJFZGxpfRFfBLxpcRxrcJBLjQlBCxbjpsFlBPpFLTJRqdTZJJLXHkzsRjnwsMLcMq?projector=1&messagePartId=0.1","description":"RE: 【尋問練習の件】資料送付の件 - masui@pitecan.com - pitecan.com メール"}
