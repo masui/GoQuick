@@ -63,13 +63,17 @@
 {"_id":{"$oid":"5fbdc694761ca80004d76079"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"dict","longname":"https://dictionary.goo.ne.jp/","description":"goo辞書 - 国語・英語・四字熟語のオンライン辞書"}
 {"_id":{"$oid":"5fbdcb9c101b7b00046039b0"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"akagi","longname":"https://scrapbox.io/akagi-masui/","description":"akagi-masui"}
 {"_id":{"$oid":"5fbdcbeec45fec0004ab9909"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"iniad","longname":"https://scrapbox.io/masui-iniad-2020/","description":"東洋大学INIAD講演"}
-{"_id":{"$oid":"5fbde00cc45fec0004ab990a"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"map","longname":"https://www.google.com/maps/@35.3625819,139.5121308,15z","description":"Google マップ"}
 {"_id":{"$oid":"5fbe1e9df979ca0004211b37"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"quora","longname":"https://jp.quora.com/","description":"(4) Quora"}
-{"_id":{"$oid":"5fbe3b0cf979ca0004211b39"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"Go","longname":"https://scrapbox.io/GoQuick/使い方","description":"Go quickの使い方"}
 {"_id":{"$oid":"5fbe4d5cf979ca0004211b3a"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"earth","longname":"https://earth.google.com/web","description":""}
-{"_id":{"$oid":"5fbe4f2df979ca0004211b3b"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"もてぎ","longname":"https://www.twinring.jp/","description":"ツインリンクもてぎ"}
-{"_id":{"$oid":"5fbecfdf78298d0004948bb7"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"j","longname":"http://jaf-sports.jp/","description":"JAFモータースポーツ"}
 {"_id":{"$oid":"5fbef91178298d0004948bb8"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sfc-vis2020","longname":"https://scrapbox.io/sfc-vis2020/","description":"sfc-vis2020"}
 {"_id":{"$oid":"5fbf029378298d0004948bb9"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"nota","longname":"https://scrapbox.io/Nota/","description":"Nota"}
 {"_id":{"$oid":"5fbf200478298d0004948bba"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmpx","longname":"https://mail.google.com/mail/u/1/#inbox/WhctKJWJFZGxpfRFfBLxpcRxrcJBLjQlBCxbjpsFlBPpFLTJRqdTZJJLXHkzsRjnwsMLcMq?projector=1&messagePartId=0.1","description":"RE: 【尋問練習の件】資料送付の件 - masui@pitecan.com - pitecan.com メール"}
 {"_id":{"$oid":"5fbf6fb297fca800044d2e8b"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"kpi","longname":"https://docs.google.com/spreadsheets/d/1KiuZb4CrfG3n3IrJmzB07m0pZ_mtEbj0mmO5Lz03T-4/edit#gid=0","description":""}
+{"_id":{"$oid":"5fbfb00992a2890004fb99a3"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"s","longname":"https://scrapbox.io/plain-wildflower-0018/","description":"Scrapbox"}
+{"_id":{"$oid":"5fbfb17592a2890004fb99a6"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"もてぎ","longname":"","description":""}
+{"_id":{"$oid":"5fbfb23892a2890004fb99a7"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"Go","longname":"","description":""}
+{"_id":{"$oid":"5fbfb24492a2890004fb99a8"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"j","longname":"","description":""}
+{"_id":{"$oid":"5fbfb24c92a2890004fb99a9"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"m","longname":"","description":""}
+{"_id":{"$oid":"5fc0b92092a2890004fb99aa"},"hash":"e55d92e762adcb817c87535afd21d12e","shortname":"koe","longname":"https://www.city.hakodate.hokkaido.jp/citizensvoice/","description":""}
+{"_id":{"$oid":"5fc19d89916a030004133ea9"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"osm","longname":"https://yuiseki.github.io/osm-relations-data/","description":"osm-relations-data demo"}
+{"_id":{"$oid":"5fc1ba98916a030004133eaa"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"map","longname":"https://www.google.com/maps/place/%E3%80%92251-0055 %E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E8%97%A4%E6%B2%A2%E5%B8%82%E5%8D%97%E8%97%A4%E6%B2%A2%EF%BC%92%EF%BC%92%E2%88%92%EF%BC%97 %E7%AC%AC%E4%B8%80%E7%9B%B8%E6%BE%A4%E3%83%93%E3%83%AB/@35.3374429,139.484595,17z/data=!3m1!4b1!4m5!3m4!1s0x60184e34d0dd307d:0xa0babee92041e26c!8m2!3d35.3374385!4d139.486789","description":"第一相澤ビル - Google マップ"}
