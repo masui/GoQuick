@@ -84,3 +84,5 @@
 {"_id":{"$oid":"5fc30199d6709f0004ba35eb"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"akagi","longname":"https://scrapbox.io/akagi-masui/","description":"akagi-masui"}
 {"_id":{"$oid":"5fc36dd08ed2c100043950aa"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"web","longname":"https://scrapbox.io/sfc-web2020/","description":"sfc-web2020"}
 {"_id":{"$oid":"5fc3a2908ed2c100043950ab"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"kento","longname":"https://scrapbox.io/kento-problem2/","description":"kento-problem2"}
+{"_id":{"$oid":"5fc3a8e8fcdde70004d74b61"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"drum","longname":"https://mail.google.com/mail/u/1/#inbox/WhctKJWJFZgKGGXQrhcxNBlNXtMcNZGLDFGHQWRksRMtFvPJcMSCNCMwKtJWTHRJLRwKGPQ","description":"Your order has been shipped - masui@pitecan.com - pitecan.com メール"}
+{"_id":{"$oid":"5fc3b13dfcdde70004d74b62"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"aobuta","longname":"https://www.youtube.com/watch?v=7lvDCMkjcsM","description":"[不可思議のカルテ] Fukashigi no Carte FULL VER. Lyrics - YouTube"}
