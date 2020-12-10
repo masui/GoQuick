@@ -1,5 +1,4 @@
 {"_id":{"$oid":"5fba3eb07b809a329fc37bba"},"hash":"hashstring","shortname":"shortname4","longname":"longname4"}
-{"_id":{"$oid":"5fba445d775e290004077c87"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"s","longname":"http://masui.org/schedule.html","description":""}
 {"_id":{"$oid":"5fba499e83b53700041b5d4e"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"xxp","longname":"https://jp.pornhub.com/","description":""}
 {"_id":{"$oid":"5fba49c983b53700041b5d4f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"xxx","longname":"https://scrapbox.io/6de9439834c91475/XXX","description":""}
 {"_id":{"$oid":"5fba49f283b53700041b5d50"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tenki","longname":"https://tenki.jp/forecast/3/17/4610/14204/3hours.html","description":""}
@@ -90,7 +89,6 @@
 {"_id":{"$oid":"5fc5abb1ad11ea00049e32df"},"hash":"c88b6a1336714d67d2078a2230e021b5","shortname":"masui","longname":"https://scrapbox.io/masui/","description":"開発者URL"}
 {"_id":{"$oid":"5fc5abd2ad11ea00049e32e0"},"hash":"c88b6a1336714d67d2078a2230e021b5","shortname":"qiita","longname":"https://qiita.com/","description":"技術サイト"}
 {"_id":{"$oid":"5fc5abecad11ea00049e32e1"},"hash":"c88b6a1336714d67d2078a2230e021b5","shortname":"zenn","longname":"https://zenn.dev/","description":"技術サイト"}
-{"_id":{"$oid":"5fc5ae0bad11ea00049e32e2"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"https://vu5.sfc.keio.ac.jp/as/teacher.php","description":"Keio SFC Application for Faculty Member Position"}
 {"_id":{"$oid":"5fc5beacad11ea00049e32e3"},"hash":"c88b6a1336714d67d2078a2230e021b5","shortname":"howto","longname":"https://scrapbox.io/GoQuick/%E6%A6%82%E8%A6%81","description":"GoQuick使い方"}
 {"_id":{"$oid":"5fc5bf0ead11ea00049e32e4"},"hash":"c88b6a1336714d67d2078a2230e021b5","shortname":"radio","longname":"https://radsum.com/","description":"ラジサマリー "}
 {"_id":{"$oid":"5fc5c467ad11ea00049e32e5"},"hash":"c88b6a1336714d67d2078a2230e021b5","shortname":"elepare-op","longname":"https://www.youtube.com/watch?v=ivo8ev1XV1o","description":"エレパレOP"}
@@ -114,3 +112,5 @@
 {"_id":{"$oid":"5fcb70849ade2200047d5f85"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"shojo","longname":"https://jp.pornhub.com/view_video.php?viewkey=ph5afdb17784899","description":"18歳の激カワ処女がヤリチン男の激しすぎるピストンにガクガク震える - Pornhub.com"}
 {"_id":{"$oid":"5fcc41d53b50220004f73918"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"family","longname":"https://scrapbox.io/masui-family/","description":"masui-family"}
 {"_id":{"$oid":"5fcd8503e0f087000447ebd7"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sales","longname":"https://scrapbox.io/nota-sales/","description":"Nota Sales"}
+{"_id":{"$oid":"5fd01adfc4e4860004c5ca21"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"https://scrapbox.io/eidantoei/%E3%83%99%E3%82%B9%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB2020","description":"ベスト・オブ・2020 - Eidantoei"}
+{"_id":{"$oid":"5fd071f1efc9460004e0c281"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"s","longname":"http://masui.org/schedule.html","description":""}
