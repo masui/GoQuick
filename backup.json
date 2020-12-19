@@ -123,3 +123,4 @@
 {"_id":{"$oid":"5fdae64ec0b6d60004963b5c"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tokkyo","longname":"https://www.j-platpat.inpit.go.jp/","description":"特許情報プラットフォーム｜J-PlatPat [JPP]"}
 {"_id":{"$oid":"5fdc2c8ffc22d700041e768a"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"xxxx","longname":"https://www.xvideos.com/lang/japanese","description":""}
 {"_id":{"$oid":"5fdd33139e31a400044d64d4"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"irohasu","longname":"https://www.amazon.co.jp/dp/B0026IAWMU","description":"Amazon | コカ・コーラ い・ろ・は・す 天然水 555mlPET×24本 | I LOHAS(い・ろ・は・す) | ミネラルウォーター 通販"}
+{"_id":{"$oid":"5fdd5c1a718392000462cbab"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"episoq","longname":"https://masui.github.io/EpisoQ/?qa=https://scrapbox.io/api/code/masui/県名なぞなぞ/episopass.js&n=10","description":""}
