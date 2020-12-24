@@ -82,7 +82,6 @@
 {"_id":{"$oid":"5fc30199d6709f0004ba35eb"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"akagi","longname":"https://scrapbox.io/akagi-masui/","description":"akagi-masui"}
 {"_id":{"$oid":"5fc36dd08ed2c100043950aa"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"web","longname":"https://scrapbox.io/sfc-web2020/","description":"sfc-web2020"}
 {"_id":{"$oid":"5fc3a2908ed2c100043950ab"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"kento","longname":"https://scrapbox.io/kento-problem2/","description":"kento-problem2"}
-{"_id":{"$oid":"5fc3a8e8fcdde70004d74b61"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"drum","longname":"https://mail.google.com/mail/u/1/#inbox/WhctKJWJFZgKGGXQrhcxNBlNXtMcNZGLDFGHQWRksRMtFvPJcMSCNCMwKtJWTHRJLRwKGPQ","description":"Your order has been shipped - masui@pitecan.com - pitecan.com メール"}
 {"_id":{"$oid":"5fc3b13dfcdde70004d74b62"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"aobuta","longname":"https://www.youtube.com/watch?v=7lvDCMkjcsM","description":"[不可思議のカルテ] Fukashigi no Carte FULL VER. Lyrics - YouTube"}
 {"_id":{"$oid":"5fc4b679af448000042e05a0"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"acmdl","longname":"https://dl.acm.org/","description":"ACM Digital Library"}
 {"_id":{"$oid":"5fc5aa29ad11ea00049e32de"},"hash":"c88b6a1336714d67d2078a2230e021b5","shortname":"n","longname":"https://www.youtube.com/channel/UCS17iKEInkBuHkxtEcCnTTQ","description":"Youtubeニューヨーク"}
@@ -125,5 +124,7 @@
 {"_id":{"$oid":"5fdd5c1a718392000462cbab"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"episoq","longname":"https://masui.github.io/EpisoQ/?qa=https://scrapbox.io/api/code/masui/県名なぞなぞ/episopass.js&n=10","description":""}
 {"_id":{"$oid":"5fdd68df262c1c0004aea1a1"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"suushiki","longname":"https://webdemo.myscript.com/views/math/index.html","description":"math"}
 {"_id":{"$oid":"5fdd9a71262c1c0004aea1a2"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"https://www.nhk-ondemand.jp/goods/G2020110800SA000/","description":"NHKオンデマンド | ＮＨＫスペシャル 「新型コロナ“第３波”　危機は乗り切れるのか」"}
-{"_id":{"$oid":"5fdea0f6262c1c0004aea1a3"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hayama","longname":"https://www.youtube.com/watch?v=LHItpIS7rdY","description":"Shonan Beach FM 78.9 - Sagami Bay, Enoshima & Mt. Fuji - YouTube"}
 {"_id":{"$oid":"5fe0b8868dc4fd0004b1818c"},"hash":"e60ceb3ef9c0e425ff4d6476dae90a42","shortname":"","longname":"","description":""}
+{"_id":{"$oid":"5fe2cf5d80dbcb00049a2145"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"drum","longname":"https://www.ucaion.com/order/55619-ZYQRLN45172","description":"Ucaion"}
+{"_id":{"$oid":"5fe3fad980dbcb00049a2146"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"episoq2","longname":"https://masui.github.io/EpisoQ/?qa=https://scrapbox.io/api/code/masui/県名なぞなぞ/episopass.js&n=2","description":""}
+{"_id":{"$oid":"5fe4000e0386be0004321309"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hayama","longname":"https://www.youtube.com/watch?v=3MjfPllNpig","description":"【LIVE】葉山港 ライブカメラ / Hayama Port Live Camera - YouTube"}
