@@ -135,7 +135,6 @@
 {"_id":{"$oid":"5feaa7eaa365fc0004a7da30"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"vpass","longname":"https://www.smbc-card.com/mem/index.jsp","description":"三井住友カード会員向けサービス「Vpass」ログイン"}
 {"_id":{"$oid":"5feac4059bd24c00048e23cd"},"hash":"a0e66825a1b2ef58e813648a7462b581","shortname":"設定","longname":"https://www.google.co.jp/amp/s/www.gizmodo.jp/amp/2018/08/change-dns.html","description":"ネットの設定"}
 {"_id":{"$oid":"5feb33769bd24c00048e23ce"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"w","longname":"https://www.windguru.cz/214597","description":"Windguru - 逗子　Zushi --Kanagawa,Shonan"}
-{"_id":{"$oid":"5ff19ab0456ef60004041be3"},"hash":"d6f53b26d48c97818840993d08318de6","shortname":"gm","longname":"https://mail.google.com/mail/u/0/#inbox","description":"受信トレイ (1) - s.gejima@gmail.com - Gmail"}
 {"_id":{"$oid":"5ff1f91c456ef60004041be4"},"hash":"d6f53b26d48c97818840993d08318de6","shortname":"sub","longname":"https://reader.substack.com/inbox","description":"Substack Magazines RSS"}
 {"_id":{"$oid":"5ff377dd099e3d0004de8972"},"hash":"2333885cdf965406f77ca939e13b1754","shortname":"go/quick","longname":"","description":""}
 {"_id":{"$oid":"5ff377e7099e3d0004de8973"},"hash":"2333885cdf965406f77ca939e13b1754","shortname":"","longname":"","description":""}
@@ -146,3 +145,5 @@
 {"_id":{"$oid":"5ffefa93283fe80004e0ecf2"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"nod","longname":"https://www.nhk-ondemand.jp/#/0/","description":"NHKオンデマンド"}
 {"_id":{"$oid":"600523da981c530004639f40"},"hash":"e55d92e762adcb817c87535afd21d12e","shortname":"gyazo","longname":"https://gyazo.com/captures","description":""}
 {"_id":{"$oid":"600560f8981c530004639f41"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"https://www.youtube.com/watch?v=nf7uRrGP2Ek&feature=youtu.be","description":"Tokyo HoloLens ミートアップ vol.24~HoloLens日本上陸四周年記念！~ - YouTube"}
+{"_id":{"$oid":"60091b86f294aa000486e4df"},"hash":"d6f53b26d48c97818840993d08318de6","shortname":"gm","longname":"https://mail.google.com/mail/u/0/#inbox","description":"Gmail"}
+{"_id":{"$oid":"600b75d943e5120004325a70"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"yourei","longname":"http://yourei.jp/","description":"用例.jp - 世界最大の用例・例文検索エンジン"}
