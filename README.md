@@ -24,3 +24,5 @@
   </li>
   <li>詳細は<a href="https://scrapbox.io/GoQuick">こちら</a></li>
 </ul>
+
+<!-- Heroku-18 stack に変更 -->
