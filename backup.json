@@ -3,7 +3,6 @@
 {"_id":{"$oid":"5fba49c983b53700041b5d4f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"xxx","longname":"https://scrapbox.io/6de9439834c91475/XXX","description":""}
 {"_id":{"$oid":"5fba4a5683b53700041b5d51"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"buy","longname":"https://scrapbox.io/toshiyukimasui/%E8%B2%B7%E3%81%84%E7%89%A9","description":""}
 {"_id":{"$oid":"5fba4b5283b53700041b5d54"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"TODO","longname":"https://scrapbox.io/toshiyukimasui/TODO","description":"TODO - 増井個人情報"}
-{"_id":{"$oid":"5fba4c0f83b53700041b5d55"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"zoom","longname":"https://keio-univ.zoom.us/meeting#/upcoming","description":"マイミーティング - Zoom"}
 {"_id":{"$oid":"5fba6f3a83b53700041b5d57"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"house","longname":"https://www.internet-radio.com/stations/house/","description":"House Radio Stations"}
 {"_id":{"$oid":"5fbae6e783b53700041b5d58"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"p","longname":"http://www.pitecan.com/p/?shortname=p__","description":"Index of /p"}
 {"_id":{"$oid":"5fbb07451ab5a10004dced51"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"c","longname":"https://scrapbox.io/masui-family/%E7%95%AA%E5%8F%B7%E6%95%B4%E7%90%86","description":"番号整理 - masui-family"}
@@ -106,7 +105,6 @@
 {"_id":{"$oid":"5fca4746af21dc0004e6a413"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"mondo","longname":"https://www.youtube.com/watch?v=_2quiyHfJQw","description":"MONDO GROSSO / ラビリンス - YouTube"}
 {"_id":{"$oid":"5fcb70849ade2200047d5f85"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"shojo","longname":"https://jp.pornhub.com/view_video.php?viewkey=ph5afdb17784899","description":"18歳の激カワ処女がヤリチン男の激しすぎるピストンにガクガク震える - Pornhub.com"}
 {"_id":{"$oid":"5fcd8503e0f087000447ebd7"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sales","longname":"https://scrapbox.io/nota-sales/","description":"Nota Sales"}
-{"_id":{"$oid":"5fd071f1efc9460004e0c281"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"s","longname":"http://masui.org/schedule.html","description":""}
 {"_id":{"$oid":"5fd2e24f31fd680004db6cd6"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"kondate","longname":"http://www.digital-nation.info/kondate/make_condate.php","description":"こんだてメーカー"}
 {"_id":{"$oid":"5fd4a80b4e8eef0004bae37d"},"hash":"0f40a3fef51484fb579fc0e6515b5ef4","shortname":"git","longname":"https://github.com/issatake","description":"isSatake (satake)"}
 {"_id":{"$oid":"5fd8609f1b9d8a0004f7114e"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"beach","longname":"http://www.beachfm.co.jp/radio/","description":""}
@@ -166,7 +164,6 @@
 {"_id":{"$oid":"60651b20726f140004a844c3"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"aone","longname":"https://labelten.labelyasan.com/web/index.php#/","description":"ラベル屋さん10"}
 {"_id":{"$oid":"60653461726f140004a844c4"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"gomi","longname":"https://www.city.fujisawa.kanagawa.jp/kankyo-j/kurashi/gomi/shushubi/nittei/documents/2021-8b.pdf","description":""}
 {"_id":{"$oid":"606c20fec8e1b30004e4a904"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"blog","longname":"https://scrapbox.io/YumaFuu","description":"blog"}
-{"_id":{"$oid":"606c211ac8e1b30004e4a905"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"","longname":"https://github.com/ispec-inc/chieru-api","description":"chieru api"}
 {"_id":{"$oid":"606c2b82c8e1b30004e4a907"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"memo","longname":"https://scrapbox.io/Yumamemo","description":"memo"}
 {"_id":{"$oid":"6076239e1a1b630004a8caf7"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tenki","longname":"https://tenki.jp/forecast/3/17/4610/14205/3hours.html","description":"藤沢市の3時間天気 - 日本気象協会 tenki.jp"}
 {"_id":{"$oid":"607b897d557a130004d8b0f6"},"hash":"ce70af2ce98de4fbbdecf60989e52325","shortname":"Twitter","longname":"http://episopass.com/Hotta_Google.html","description":""}
@@ -214,5 +211,59 @@
 {"_id":{"$oid":"60da96ccf7a1cd00041b5fc0"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"wed","longname":"https://scrapbox.io/wed-science/","description":"水曜日の科学"}
 {"_id":{"$oid":"60dd038ac3e06800044137cd"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"wiki","longname":"https://ja.wikipedia.org/wiki/%E5%A2%97%E4%BA%95%E4%BF%8A%E4%B9%8B","description":"増井俊之 - Wikipedia"}
 {"_id":{"$oid":"60dd4222c3e06800044137ce"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tateishi","longname":"https://scrapbox.io/masui-tateishi/Wikipedia%E3%83%87%E3%83%BC%E3%82%BF%E7%B7%A8%E9%9B%86%E8%A8%88%E7%94%BB","description":"Wikipediaデータ編集計画 - masui-tateishi"}
-{"_id":{"$oid":"60de64340b79a40004b4ef9b"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"shokuji","longname":"https://scrapbox.io/toshiyukimasui/%E9%A3%9F%E4%BA%8B%E3%83%97%E3%83%A9%E3%83%B32021","description":"食事プラン2021 - 増井個人情報"}
-{"_id":{"$oid":"60e0523f8e7f7a000460b100"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"https://scrapbox.io/masuibook-kensatsu/","description":"安倍・菅政権vs.検察庁　暗闘のクロニクル"}
+{"_id":{"$oid":"60ee99cadea3a100047d564a"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"g","longname":"https://gmail.com","description":"gmail"}
+{"_id":{"$oid":"60ee99e5dea3a100047d564b"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"gg","longname":"https://gmail.com","description":"gmail"}
+{"_id":{"$oid":"60f158c4c2a38a000467a558"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"danime","longname":"https://anime.dmkt-sp.jp/animestore/c_all_pc?initialCollectionKey=1&utm_source=google&utm_medium=ppc&utm_campaign=sl_26&gclid=CjwKCAjw3MSHBhB3EiwAxcaEu-6EnLJU8Mw4XFQdGIpVJ-5pHfXuD5xmPVOcBcqIVUTDwA7hu8VeHBoCfe4QAvD_BwE","description":"全アニメ一覧[あ行] [あ] | dアニメストア"}
+{"_id":{"$oid":"61010874991a8b00048e7c8e"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sc","longname":"http://masui.org/schedule.html","description":""}
+{"_id":{"$oid":"61010894991a8b00048e7c8f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"s","longname":"","description":""}
+{"_id":{"$oid":"6102b6abe4e667000494ec3c"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"shokuji","longname":"https://scrapbox.io/toshiyukimasui/%E9%A3%9F%E4%BA%8B%E3%83%97%E3%83%A9%E3%83%B32021","description":"食事プラン2021 - 増井個人情報"}
+{"_id":{"$oid":"610b5cacecb375000405a28e"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"ｇｇ","longname":"https://gmail.com","description":""}
+{"_id":{"$oid":"610b7722ecb375000405a28f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"drive","longname":"https://drive.google.com/drive/u/0/my-drive","description":"マイドライブ - Google ドライブ"}
+{"_id":{"$oid":"6114c7ceb67dd80004b5ee58"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"qqq","longname":"https://scrapbox.io/6de9439834c91475/XXX","description":"XXX - 6de9439834c91475"}
+{"_id":{"$oid":"6118474ed87367000488c857"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"bosai","longname":"https://weather.yahoo.co.jp/weather/levelmap/?lat=35.3159481282309&lon=139.49060242368546&z=9.47232204829083","description":"大雨警戒レベルマップ｜土砂災害・洪水 - Yahoo!天気・災害"}
+{"_id":{"$oid":"6118cb9adb944500041c3d77"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"michiko1","longname":"https://github.dev/masui/Michiko","description":"index.html — Michiko [GitHub] — Visual Studio Code — GitHub"}
+{"_id":{"$oid":"6118cbb1db944500041c3d78"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"michiko2","longname":"https://masui.github.io/Michiko/","description":""}
+{"_id":{"$oid":"611f1ab2a3c8410004a7a974"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"help","longname":"https://helpfeel.com/masui/","description":"増井俊之"}
+{"_id":{"$oid":"6122686b9d5c6c0004f09d4c"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"","longname":"https://github.com/YumaFu","description":""}
+{"_id":{"$oid":"6122fa0d9d5c6c0004f09d4e"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"mygit","longname":"https://github.com/YumaFuu","description":""}
+{"_id":{"$oid":"612382a1fea191000462fa4d"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hchelp","longname":"https://helpfeel.com/hotcook/","description":"hotcook"}
+{"_id":{"$oid":"612382b7fea191000462fa4e"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hotcook","longname":"https://scrapbox.io/Hotcook/","description":"Hotcook"}
+{"_id":{"$oid":"61260e4d324bc70004734222"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"zoom","longname":"https://us04web.zoom.us/meeting#/upcoming","description":"マイミーティング - Zoom"}
+{"_id":{"$oid":"6126dfdecb9c740004aad8ec"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"fd","longname":"https://flutter.dev/docs","description":"Flutter document"}
+{"_id":{"$oid":"6126e0efcb9c740004aad8ed"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"twi","longname":"https://twitter.com/home","description":"TwitterのHome画面"}
+{"_id":{"$oid":"6126e113cb9c740004aad8ee"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"sb","longname":"https://scrapbox.io/kasiwa/","description":"scrapbox"}
+{"_id":{"$oid":"6126e140cb9c740004aad8ef"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"nm","longname":"https://scrapbox.io/kasiwa/new","description":"メモを取るためのscrapbox"}
+{"_id":{"$oid":"6126ea4ecb9c740004aad8f0"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"qt","longname":"https://qiita.com/","description":"Qiita"}
+{"_id":{"$oid":"6126ea55cb9c740004aad8f1"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"zn","longname":"https://zenn.dev/","description":"Zenn"}
+{"_id":{"$oid":"6126fb3acb9c740004aad8f2"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"y","longname":"https://www.youtube.com/","description":"Youtube"}
+{"_id":{"$oid":"6127088bcb9c740004aad8f3"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"eb","longname":"https://ebookjapan.yahoo.co.jp/","description":"ebookjapan"}
+{"_id":{"$oid":"61270957cb9c740004aad8f5"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"","longname":"","description":""}
+{"_id":{"$oid":"612745d5cb9c740004aad8f6"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hfadmin","longname":"https://helpfeel.com/_hf/admin","description":"Helpfeel Dashboard"}
+{"_id":{"$oid":"61278092cb9c740004aad8f7"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"n","longname":"https://note.com/","description":"note.com"}
+{"_id":{"$oid":"612780c9cb9c740004aad8f8"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"hab","longname":"https://b.hatena.ne.jp/","description":"はてなブックマーク"}
+{"_id":{"$oid":"612780d2cb9c740004aad8f9"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"memo","longname":"f","description":"memo"}
+{"_id":{"$oid":"612780d9cb9c740004aad8fa"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"fw","longname":"fe","description":"memo"}
+{"_id":{"$oid":"61296c73e8ac4a0004e926a5"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"manga","longname":"https://www.amazon.co.jp/kindle-dbs/library/manga","description":"マンガ本棚"}
+{"_id":{"$oid":"612b8712b521300004e3b498"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hitsuji","longname":"https://www.amazon.co.jp/dp/B08GTZFDT8","description":"Amazon.co.jp: ひつじがすき 日本のひつじ牧場を観る | Prime Video"}
+{"_id":{"$oid":"6131e343a8ab5a000423adfd"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"jssst","longname":"https://www.jssst.or.jp/award/detail/kiso_list.html","description":"基礎研究賞 (JSSST Research Award) | 日本ソフトウェア科学会"}
+{"_id":{"$oid":"61330ae1f1e40c00043e2747"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"award","longname":"https://github.dev/masui/JSSSTAward","description":"%% https://scrapbox.io/masui/ソフトウェア科学会_基礎研究賞講演_2021/9/3% Cloud LaTeX%  https://cloudlatex.io/projects/411855/edit% 記事依頼%  https://mail.google.com/mail/u/0/?zx=a0kk8p4fqhm3#inbox/WhctKKWxdNgXpJNJdpfrtHgVMQJTthSKpCLwgCTppBnkqJbWZmmsxwzHgMwmjcxmLrKmfZV% 執筆要項%  https://www.jssst.or.jp/edit/detail/style_files.html%…ユーザインタフェースに関連する幅広い研究開発を行なっている。携帯電話やスマートフォンで広く利用されている予測入力システムPOBoxやフリック入力システムの開発者。Gyazo, Scrapbox, Helpfeel, EpisoPass, 本棚.orgなど各種のWebサービスを運用中。WISSの話も書く}\\end{document}"}
+{"_id":{"$oid":"613352d1f1e40c00043e2748"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"michiko","longname":"https://github.dev/masui/Michiko","description":"index.html — Michiko [GitHub] — Visual Studio Code — GitHub"}
+{"_id":{"$oid":"6134cc296dc806000414a79d"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"fl","longname":"https://github.com/fitness-lab","description":""}
+{"_id":{"$oid":"6139d983525c5c000445b50e"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"jikanwari","longname":"https://www.students.keio.ac.jp/sfc/class/registration/files/2021ttable_pmei.pdf","description":""}
+{"_id":{"$oid":"613a7834525c5c000445b50f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"ikea","longname":"https://www.ikea.com/jp/ja/p/skadis-hook-white-30335619/","description":"SKÅDIS スコーディス フック, ホワイト - IKEA"}
+{"_id":{"$oid":"613ac92f525c5c000445b512"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"k","longname":"https://twitter.com","description":""}
+{"_id":{"$oid":"613ac950525c5c000445b513"},"hash":"d668ee36819b2ee5ff7ac3d8a9aaebbf","shortname":"miya","longname":"https://twitter.com","description":""}
+{"_id":{"$oid":"613ae50e525c5c000445b514"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"denkidenshi","longname":"https://pu.palsyne.net/system/app/AMMEV0070/AMMEV0070.html","description":"PalSyne:東京大学電気系同窓会"}
+{"_id":{"$oid":"613d8797d1bd9b00043dc3c9"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"https://rikunora.hatenablog.com/entry/20170321/p1","description":"なぜ統計学では釣り鐘型の分布が使われ、物理現象では右肩下がりの分布が使われるのか - 小人さんの妄想"}
+{"_id":{"$oid":"614554111c289400044e3a32"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"simia","longname":"https://angorou.com/simia-chain/","description":"経済産業省認定SIMIAチェーン(Qubit Chain)は詐欺なのか？ | アンゴロウ暗号資産研究サイト"}
+{"_id":{"$oid":"6147cfb26fb8d00004c7b1b2"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"ketsuatsu","longname":"https://scrapbox.io/toshiyukimasui/%E8%A1%80%E5%9C%A7","description":"血圧 - 増井個人情報"}
+{"_id":{"$oid":"6147d3926fb8d00004c7b1b3"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"ep","longname":"https://episopass.com/index.html","description":"EpisoPass"}
+{"_id":{"$oid":"614a831e89cac0000448875f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"cloudflare","longname":"https://dash.cloudflare.com/38512d0eea1ceb4a9b770a966f22f4d4/pages/view/episopass2021","description":"Pages | Account | Cloudflare - Web Performance & Security"}
+{"_id":{"$oid":"614be22c6016e80004e878f4"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"dashboard","longname":"https://chrome.google.com/webstore/devconsole/7fc79c68-e07a-4f02-87be-280520b38319?hl=ja","description":"デベロッパー ダッシュボード"}
+{"_id":{"$oid":"614e2dfa505ced00043df49a"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"diary","longname":"https://scrapbox.io/uun/2021%E5%B9%B49%E6%9C%88%E3%81%AE%E6%97%A5%E8%A8%98","description":""}
+{"_id":{"$oid":"614e3081505ced00043df49b"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"日記","longname":"","description":""}
+{"_id":{"$oid":"614e30ce505ced00043df49e"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"これ消したい","longname":"","description":""}
+{"_id":{"$oid":"614e3537505ced00043df4a0"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"google太郎","longname":"","description":""}
+{"_id":{"$oid":"614e380b505ced00043df4a1"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"memo","longname":"https://scrapbox-memo.pages.dev/?projectName=uun","description":""}
+{"_id":{"$oid":"614e3811505ced00043df4a2"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"memotoso","longname":"https://scrapbox-memo.pages.dev/?projectName=motoso","description":""}
+{"_id":{"$oid":"614e865afa0a33000477e9ce"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"todo","longname":"things:///show?id=today","description":""}
