@@ -3,27 +3,27 @@
   <div class="control-group">
     <label class="control-label" for="short">Shortname:</label>
     <div class="controls">
-      <input type="text" name="shortname" placeholder = "e.g. abc" class="input-normal" value='<%= @shortname %>'>
+      <input type="text" name="shortname" id="shortname" placeholder = "e.g. abc" class="input-normal" value='<%= @shortname %>'>
     </div>
   </div>
   
   <div class="control-group">
     <label class="control-label">URL / Memo:</label>
     <div class="controls">
-      <input type="text" name="longname" placeholder="e.g. http://Google.com/" value='<%= @longname %>' class="input-xxlarge">
+      <input type="text" name="longname" id="longname" placeholder="e.g. http://Google.com/" value='<%= @longname %>' class="input-xxlarge">
     </div>
     </div>
 
   <div class="control-group">
     <label class="control-label">Description:</label>
     <div class="controls">
-      <input type="text" name="description" placeholder="e.g. Google search page" value='<%= @description %>' class="input-xxlarge">
+      <input type="text" name="description" id="description" placeholder="e.g. Google search page" value='<%= @description %>' class="input-xxlarge">
     </div>
   </div>
   
   <div class="control-group">
     <div class="controls">
-      <button type="submit" class="btn btn-primary">Register</button>
+      <button type="submit" id="registerbutton" class="btn btn-primary">Register</button>
     </div>
   </div>
 </form>
