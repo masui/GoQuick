@@ -69,7 +69,10 @@ get '/_edit' do
   erb :edit
 end
 
-get '/:name!' do |shortname|
+# get '/:name!' do |shortname|
+
+get '/*!' do
+  shortname = params['splat'].join('/') # a/b みたいなのを許す
   getcookie
   if shortname =~ /^[a-zA-Z0-9_\-]+$/
     data = $bmdb.find({hash: @hash, shortname: shortname}).limit(1).first

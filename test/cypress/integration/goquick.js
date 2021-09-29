@@ -17,26 +17,11 @@ describe('GoQuickのテスト', () => {
 	cy.get('#loginbutton').click()
     })
 
-    it('登録してないときGoogle検索', () => {
-	const keywords = [
-	    'abcdefg',
-	    'VeryLongSearchString'
-	]
-	keywords.forEach((keyword) => {
-	    cy.request({
-		url: `http://GoQuick.org/${keyword}`,
-		followRedirect: false, // GoQuickのリダイレクトを止める
-	    }).then((res) => {
-		expect(res.status).to.eq(302) // リダイレクトのステータスコード
-		expect(res.redirectedToUrl).to.eq(`https://www.google.com/search?q=${keyword}`)
-	    })
-	})
-    })
-	
     it('アドレスの登録とリダイレクトのテスト', () => {
 	const testEntries = [
 	    {url: 'https://scrapbox.io/masui', name: 'masui', desc: '増井のページ'},
-	    {url: 'https://example.com/', name: 'example', desc: 'Exampleページ'}
+	    {url: 'https://example.com/', name: 'example', desc: 'Exampleページ'},
+	    {url: 'https://example.com/', name: 'a/b/c', desc: 'Exampleページ'}
 	]
 	testEntries.forEach((entry) => {
 	    cy.get('#shortname')
@@ -66,6 +51,22 @@ describe('GoQuickのテスト', () => {
 	    }).then((res) => {
 		expect(res.status).to.eq(302) // リダイレクトのステータスコード
 		expect(res.redirectedToUrl).to.eq(entry.url) // 登録したアドレスかチェック
+	    })
+	})
+    })
+
+    it('登録してないときGoogle検索', () => {
+	const keywords = [
+	    'abcdefg',
+	    'VeryLongSearchString'
+	]
+	keywords.forEach((keyword) => {
+	    cy.request({
+		url: `http://GoQuick.org/${keyword}`,
+		followRedirect: false, // GoQuickのリダイレクトを止める
+	    }).then((res) => {
+		expect(res.status).to.eq(302) // リダイレクトのステータスコード
+		expect(res.redirectedToUrl).to.eq(`https://www.google.com/search?q=${keyword}`)
 	    })
 	})
     })
