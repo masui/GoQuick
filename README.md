@@ -15,7 +15,12 @@
   </li>
   <li>
     GoQuickをChromeの標準検索として指定しておくと、
-    URL枠で<code>map</code>などと入力して登録URLに飛ぶことができます
+    URL枠(Omnibox)で<code>map</code>などと入力して登録URLに飛ぶことができます
+    <br>
+    <img src="https://gyazo.com/23949b2b951229a31c2b209d1579a6e4.png">
+  </li>
+  <li>
+    登録されていない単語をURL入力枠に入力したときはGoogle検索が実行されます
   </li>
   <li>
     登録ブックマークレット:
