@@ -5,6 +5,7 @@
 #  pass: http://www.pitecan.com/p/Atlas_tmasui@gmail.com
 #  collectionはgoquick
 #
+.PHONY: test
 
 backup:
 	git pull
@@ -29,3 +30,7 @@ push:
 
 favicon:
 	convert images/favicon.png -define icon:auto-resize=64,32,16 public/favicon.ico
+
+test:
+	cd test; make test
+

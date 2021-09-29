@@ -9,7 +9,7 @@
 #
 
 
-run:
+test:
 	npx cypress run -s cypress/integration/goquick.js
 
 # GUIの場合
@@ -25,3 +25,4 @@ clean:
 	/bin/rm -f package.json
 	/bin/rm -f cypress.json
 	/bin/rm -f yarn.lock
+

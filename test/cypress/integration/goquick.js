@@ -2,6 +2,9 @@
 // GoQuick.orgのテスト
 //
 
+// GoQuick.org/masui でジャンプするかテストするにはどうすれば?
+
+
 const URL = 'http://GoQuick.org/' // デプロイ環境
 
 describe('GoQuickのテスト', () => {
@@ -35,4 +38,8 @@ describe('GoQuickのテスト', () => {
 	cy.get('#description')
 	    .should('have.value', '増井のScrapboxページ')
     })
+
+    //it('Scrapboxにアクセス', () => {
+    // cy.visit('http://GoQuick.org/masui')
+    //})
 })
