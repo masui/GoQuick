@@ -7,7 +7,9 @@ GEM
       bson (>= 4.3.0, < 5.0.0)
     multi_json (1.13.1)
     mustermann (1.0.2)
-    puma (3.11.4)
+    nio4r (2.5.8)
+    puma (4.3.11)
+      nio4r (~> 2.0)
     rack (2.0.5)
     rack-protection (2.0.1)
       rack
@@ -31,7 +33,7 @@ PLATFORMS
 
 DEPENDENCIES
   mongo (~> 2.5.1)
-  puma (~> 3.11.2)
+  puma (~> 4.3.11)
   sinatra (~> 2.0.1)
   sinatra-contrib
   sinatra-cross_origin (~> 0.4.0)
