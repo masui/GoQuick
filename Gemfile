@@ -2,7 +2,7 @@ ruby '2.5.0'
 
 source 'https://rubygems.org'
 
-gem 'sinatra', '~> 2.0.1'
+gem 'sinatra', '~> 2.2.0'
 gem 'sinatra-cross_origin', '~> 0.4.0'
 gem 'sinatra-contrib'
 
