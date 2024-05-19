@@ -13,6 +13,10 @@ require 'digest/md5'
 
 $bmdb = Mongo::Client.new(ENV['MONGODB_URI'])[:goquick]
 
+File.open("/tmp/log","w"){ |f|
+  f.puts("bmdb = #{$bmdb}")
+}
+
 configure do
   set :root, File.dirname(__FILE__)
   set :public_folder, settings.root + '/public'
