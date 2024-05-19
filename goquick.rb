@@ -9,7 +9,7 @@ require 'sinatra/cookies'
 require 'mongo'
 require 'json'
 require 'digest/md5'
-require 'cgi'
+# require 'cgi'
 
 $bmdb = Mongo::Client.new(ENV['MONGODB_URI'])[:goquick]
 
