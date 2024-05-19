@@ -13,10 +13,6 @@ require 'digest/md5'
 
 $bmdb = Mongo::Client.new(ENV['MONGODB_URI'])[:goquick]
 
-File.open("/tmp/log","w"){ |f|
-  f.puts("bmdb = #{$bmdb}")
-}
-
 configure do
   set :root, File.dirname(__FILE__)
   set :public_folder, settings.root + '/public'
@@ -97,6 +93,7 @@ end
 
 post '/' do # ログインフォームから
   cookies[:username] = params['username'].to_s
+  puts "username = #{params['username']}"
   cookies[:hash] = Digest::MD5.hexdigest(params['username'].to_s + params['password'].to_s)
   getcookie
   redirect '/'
