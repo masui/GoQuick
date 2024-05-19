@@ -15,7 +15,7 @@ backup:
 
 # ローカルにSinatraを走らせる
 local:
-	MONGODB_URI=`heroku config -a quickgo | grep MONGODB_URI | /usr/local/opt/ruby/bin/ruby -n -e 'puts $$_.split[1]'` ruby goquick.rb
+	MONGODB_URI=`heroku config -a quickgo | grep MONGODB_URI | /usr/local/opt/ruby/bin/ruby -n -e 'puts $$_.split[1]'` /usr/local/opt/ruby/bin/ruby goquick.rb
 
 clean:
 	/bin/rm -f *~ */*~

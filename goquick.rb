@@ -5,7 +5,7 @@ $:.unshift File.expand_path 'lib', File.dirname(__FILE__)
 
 require 'sinatra'
 require 'sinatra/cookies'
-require 'sinatra/cross_origin'
+# require 'sinatra/cross_origin'
 require 'mongo'
 require 'json'
 require 'digest/md5'
@@ -50,6 +50,7 @@ end
   
 post '/_register' do
   getcookie
+  
   shortname = params['shortname']
   $bmdb.delete_many({hash: @hash, shortname: shortname})
   d = {
@@ -64,6 +65,7 @@ end
 
 get '/_edit' do
   getcookie
+  
   @description = params['description']
   @longname = params['longname']
   erb :edit
@@ -74,6 +76,7 @@ end
 get '/*!' do
   shortname = params['splat'].join('/') # a/b みたいなのを許す
   getcookie
+  
   if shortname =~ /^[a-zA-Z0-9_\-]+$/
     data = $bmdb.find({hash: @hash, shortname: shortname}).limit(1).first
     if data
