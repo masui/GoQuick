@@ -1,28 +1,33 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    backports (3.11.3)
+    base64 (0.2.0)
     bson (4.3.0)
     mongo (2.5.3)
       bson (>= 4.3.0, < 5.0.0)
     multi_json (1.13.1)
-    mustermann (1.0.2)
+    mustermann (3.0.0)
+      ruby2_keywords (~> 0.0.1)
     puma (3.11.4)
-    rack (2.0.5)
-    rack-protection (2.0.1)
-      rack
-    sinatra (2.0.1)
-      mustermann (~> 1.0)
-      rack (~> 2.0)
-      rack-protection (= 2.0.1)
+    rack (3.0.11)
+    rack-protection (4.0.0)
+      base64 (>= 0.1.0)
+      rack (>= 3.0.0, < 4)
+    rack-session (2.0.0)
+      rack (>= 3.0.0)
+    ruby2_keywords (0.0.5)
+    sinatra (4.0.0)
+      mustermann (~> 3.0)
+      rack (>= 3.0.0, < 4)
+      rack-protection (= 4.0.0)
+      rack-session (>= 2.0.0, < 3)
       tilt (~> 2.0)
-    sinatra-contrib (2.0.1)
-      backports (>= 2.0)
-      multi_json
-      mustermann (~> 1.0)
-      rack-protection (= 2.0.1)
-      sinatra (= 2.0.1)
-      tilt (>= 1.3, < 3)
+    sinatra-contrib (4.0.0)
+      multi_json (>= 0.0.2)
+      mustermann (~> 3.0)
+      rack-protection (= 4.0.0)
+      sinatra (= 4.0.0)
+      tilt (~> 2.0)
     sinatra-cross_origin (0.4.0)
     tilt (2.0.8)
 
@@ -32,7 +37,7 @@ PLATFORMS
 DEPENDENCIES
   mongo (~> 2.5.1)
   puma (~> 3.11.2)
-  sinatra (~> 2.0.1)
+  sinatra (~> 4.0.0)
   sinatra-contrib
   sinatra-cross_origin (~> 0.4.0)
 
