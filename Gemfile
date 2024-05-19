@@ -10,3 +10,5 @@ gem 'mongo', '~> 2.20.0'
 
 gem 'puma', '~> 3.11.2'
 
+
+gem "rackup", "~> 2.1"

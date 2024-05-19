@@ -15,6 +15,9 @@ GEM
       rack (>= 3.0.0, < 4)
     rack-session (2.0.0)
       rack (>= 3.0.0)
+    rackup (2.1.0)
+      rack (>= 3)
+      webrick (~> 1.8)
     ruby2_keywords (0.0.5)
     sinatra (4.0.0)
       mustermann (~> 3.0)
@@ -30,6 +33,7 @@ GEM
       tilt (~> 2.0)
     sinatra-cross_origin (0.4.0)
     tilt (2.0.8)
+    webrick (1.8.1)
 
 PLATFORMS
   ruby
@@ -37,6 +41,7 @@ PLATFORMS
 DEPENDENCIES
   mongo (~> 2.20.0)
   puma (~> 3.11.2)
+  rackup (~> 2.1)
   sinatra (~> 4.0.0)
   sinatra-contrib
   sinatra-cross_origin (~> 0.4.0)
