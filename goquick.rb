@@ -21,6 +21,11 @@ configure do
 end
 
 before do
+  # Heroku router 経由で http アクセスされたら https へ寄せる
+  # (ローカル等 X-Forwarded-Proto が無い環境ではリダイレクトしない)
+  if request.env['HTTP_X_FORWARDED_PROTO'] == 'http'
+    redirect "https://#{request.host}#{request.fullpath}"
+  end
   response.headers['Access-Control-Allow-Origin'] = '*'
 end
 
