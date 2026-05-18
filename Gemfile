@@ -8,7 +8,7 @@ gem 'sinatra-contrib'
 
 gem 'mongo', '~> 2.20.0'
 
-gem 'puma', '~> 3.11.2'
+gem 'puma', '~> 6.4'
 
 
 gem "rackup", "~> 2.1"
