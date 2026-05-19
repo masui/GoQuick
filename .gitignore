@@ -1,6 +1,8 @@
 #*
 *~
 .DS_Store
+.mongo_uri
+restore_mongo.rb
 node_modules
 test/package.json
 test/yarn.lock
@@ -9,3 +11,5 @@ test/cypress/support
 test/cypress/videos
 test/cypress.json
 test/cypress/plugins
+cred.txt
+checkhash.rb

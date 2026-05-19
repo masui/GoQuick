@@ -10,7 +10,6 @@
 {"_id":{"$oid":"5fbb86a4da2b740004ff935f"},"hash":"a784ccef863a84d5ab6f4f6f3fd3498e","shortname":"amakusa","longname":"https://www.t-island.jp/","description":"観光協会"}
 {"_id":{"$oid":"5fbc5b9868d4e20004036605"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"fam","longname":"https://scrapbox.io/masui-family/","description":"masui-family"}
 {"_id":{"$oid":"5fbc64d73ed95000042328ef"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"bm","longname":"https://scrapbox.io/masui-bookmarks-private/","description":"増井のブックマーク"}
-{"_id":{"$oid":"5fbda2993547890004c26d66"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tsujido","longname":"https://gyazo.com/be1c554bb8587a9e729a5c8131080061","description":"辻堂バス時刻表"}
 {"_id":{"$oid":"5fc2c7eb1a4f48000412f816"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"reona","longname":"https://jp.pornhub.com/view_video.php?viewkey=ph5ef9a9eb55166","description":"やらしいハーフの霧島レオナに突然挿入して連続中出し - Pornhub.com"}
 {"_id":{"$oid":"5fc2c90b1a4f48000412f819"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"nadia","longname":"https://jp.pornhub.com/view_video.php?viewkey=ph5fb0e13d2e4e8","description":"Foreigner Fucked in Train in Japan! - Pornhub.com"}
 {"_id":{"$oid":"5fc9bca5af21dc0004e6a411"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"gyaki","longname":"http://gyaki.org/18e2f37299e8c9ecc37c33e99ca33a16","description":""}
@@ -164,7 +163,6 @@
 {"_id":{"$oid":"6131e343a8ab5a000423adfd"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"jssst","longname":"https://www.jssst.or.jp/award/detail/kiso_list.html","description":"基礎研究賞 (JSSST Research Award) | 日本ソフトウェア科学会"}
 {"_id":{"$oid":"614554111c289400044e3a32"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"simia","longname":"https://angorou.com/simia-chain/","description":"経済産業省認定SIMIAチェーン(Qubit Chain)は詐欺なのか？ | アンゴロウ暗号資産研究サイト"}
 {"_id":{"$oid":"63e5af837327680002a3393f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"staple","longname":"https://app.staple.jp/expenses/my_expenses/all","description":""}
-{"_id":{"$oid":"6400bcb5a8d8fc00025bbac2"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"bukken","longname":"https://www.rehouse.co.jp/buy/kodate/bkdetail/FZ24BA0B/","description":"藤沢市辻堂元町６丁目（戸建）の物件情報（FZ24BA0B）｜三井のリハウス"}
 {"_id":{"$oid":"614e865afa0a33000477e9ce"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"todo","longname":"things:///show?id=today","description":""}
 {"_id":{"$oid":"616b8aa1a163110004ab9f0d"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"denki","longname":"https://scrapbox.io/denkidenshi30/","description":"東大電気電子30"}
 {"_id":{"$oid":"618debaf17f96b0004c7e080"},"hash":"a0eb42c95a454be1f24f9912738cf080","shortname":"gtd","longname":"https://scrapbox.io/purple-unit-7833/GTD","description":""}
@@ -200,7 +198,6 @@
 {"_id":{"$oid":"614e380b505ced00043df4a1"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"memo","longname":"https://scrapbox-memo.pages.dev/?projectName=uun","description":""}
 {"_id":{"$oid":"61596c306e826600047464f6"},"hash":"595f5d9108c592d709504f1a853766ed","shortname":"git","longname":"https://github.com","description":""}
 {"_id":{"$oid":"61689a23faade0000408cd98"},"hash":"814bc7170d22aec7135587ef849b89ca","shortname":"av","longname":"","description":""}
-{"_id":{"$oid":"6189960990ce2e0004912de3"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"alexa","longname":"https://www.alexa.com/siteinfo/gyazo.com","description":"gyazo.com Competitive Analysis, Marketing Mix and Traffic - Alexa"}
 {"_id":{"$oid":"619595172600440004b8712b"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"cs","longname":"http://masui.org/schedule.html","description":""}
 {"_id":{"$oid":"61b6ef6f53778c0004ee2af2"},"hash":"a81893ce0269b281137e5a8d2ac97dc7","shortname":"memo","longname":"code:memo.html  <html>    <head>      <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">      <title>Scrapbox Memo</title>      <script type=\"text/javascript\">        project = '' /sisuilab/ 自分のプロジェクト名        d = new Date()        year = d.getYear() + 1900        month = ('0' + (d.getMonth()+1)).slice(-2)        day = ('0' + d.getDate()).slice(-2)        hour = ('0' + d.getHours()).slice(-2)        min = ('0' + d.getMinutes()).slice(-2)        sec = ('0' + d.getSeconds()).slice(-2)        location.href = `https://scrapbox.io/${project}/${year}${month}${day}${hour}${min}${sec}`      </script>    </head>  </html>","description":"memo"}
 {"_id":{"$oid":"6225aefa2685660004c3b5d4"},"hash":"f9a99f7e5a7e889097ccfcdcdabf0884","shortname":"spr","longname":"https://github.com/gudegithub/stockholm/pulls","description":""}
@@ -268,7 +265,6 @@
 {"_id":{"$oid":"62b115321c2ed2000478be07"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hoso","longname":"https://scrapbox.io/masui-housoudaigaku2/","description":"放送大学原稿 提出原稿 (増井)"}
 {"_id":{"$oid":"62b3ef1b3c71b000045e3c16"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"kyuuryou","longname":"https://jsreg.adst.keio.ac.jp/ja","description":"人事手続きシステム"}
 {"_id":{"$oid":"637eee8fe01def0004aaf5d1"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"grammarly","longname":"https://app.grammarly.com/","description":"My Grammarly - Grammarly"}
-{"_id":{"$oid":"63d4cc56b251340004ad1deb"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"m","longname":"https://gyamap.com/masuimap","description":""}
 {"_id":{"$oid":"5fba4b5283b53700041b5d54"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"TODO","longname":"https://scrapbox.io/toshiyukimasui/TODO","description":"TODO - 増井個人情報"}
 {"_id":{"$oid":"5fbb7b42da2b740004ff935a"},"hash":"0f40a3fef51484fb579fc0e6515b5ef4","shortname":"mas","longname":"https://scrapbox.io/masuilab/","description":"🍶 増井研 🍺🍷"}
 {"_id":{"$oid":"5fbc5723a3282b0004e09c1c"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"new","longname":"https://scrapbox.io/stream/kento-problem2/","description":"kento-problem2"}
@@ -370,7 +366,6 @@
 {"_id":{"$oid":"62327ad9b3c9250004b90945"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp1","longname":"","description":"01 コロナ渦を乗り越えて来た 青年は誰やねん？ -昔の三世VS現代三世のトーク&トーク。 - YouTube"}
 {"_id":{"$oid":"623d87d2614dcc0004c024ee"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hyakunin","longname":"http://gyatv.com/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96","description":"GyaTV:"}
 {"_id":{"$oid":"623f9e7f8652830004bdd263"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"shichouson","longname":"http://gyatv.com/%E5%B8%82%E7%94%BA%E6%9D%91","description":"GyaTV:"}
-{"_id":{"$oid":"62479f8a57c19c000476cf51"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"xxx","longname":"https://scrapbox.io/efbf0d4988beb0c15b42dda7/XXX","description":""}
 {"_id":{"$oid":"62825c018daa400004794df3"},"hash":"d60fc55053a88de23dc86ea682b3b6b0","shortname":"p","longname":"https://pornhub.com/","description":""}
 {"_id":{"$oid":"62a00fe08a8a8300047bd036"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hikizan","longname":"https://scrapbox.io/Hikizan/%E6%A6%82%E8%A6%81","description":"概要 - 引算サービス"}
 {"_id":{"$oid":"62dbe52413fc4d00046e0c8c"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sharoku","longname":"http://www.pitecan.com/Sharoku/index.html","description":"写録(しゃーろっく): 写真撮影と同時に録音した音を楽しむ"}
@@ -503,7 +498,6 @@
 {"_id":{"$oid":"64a797cbf6d578000223c522"},"hash":"623a6a45da5dc278078373ef8065bb10","shortname":"kmn","longname":"https://airrsv.net/kumon-seijogakuenekimae/calendar","description":""}
 {"_id":{"$oid":"64ab83ea41f16d0002759809"},"hash":"623a6a45da5dc278078373ef8065bb10","shortname":"vpa","longname":"http://www.smbc-card.com/mem/vps/index.jsp","description":""}
 {"_id":{"$oid":"64b3be651839c90002caba38"},"hash":"623a6a45da5dc278078373ef8065bb10","shortname":"dpc","longname":"https://shinryohoshu.mhlw.go.jp/shinryohoshu/searchMenu/","description":"OLD: http://www.iryohoken.go.jp/shinryohoshu/searchMenu/"}
-{"_id":{"$oid":"64bb4cced3db8e0002a49a96"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sss","longname":"https://mail.google.com/mail/u/1/#search/%E9%96%93%E5%B3%B6/WhctKKZGTxqgkkdHxrShzJfsNTZrTrHbCTZKqtDnNFdsjNlkTDKJkDDvqSwRqblrhWjJwNB","description":"Re: 【長岡市】ご講演のご都合伺い（追伸） - masui@pitecan.com - pitecan.com メール"}
 {"_id":{"$oid":"64bc181ccc124c00020d94a0"},"hash":"87a75d12be8b08d76b6d7f52cb62b1a2","shortname":"nono3","longname":"aaaaa","description":""}
 {"_id":{"$oid":"64c73940c11e8900022bd0a8"},"hash":"623a6a45da5dc278078373ef8065bb10","shortname":"ute","longname":"https://u-tokyo.bvits.com/esct/Common/default.aspx","description":""}
 {"_id":{"$oid":"64d6a6d47785b80002cf6b70"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"haramap","longname":"https://gyamap.com/haramura-info?loc=N35.98240E138.22408Z12","description":"茅野 / 原村 情報の地図"}
@@ -529,7 +523,6 @@
 {"_id":{"$oid":"65339047bf2a6b000223394f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp3","longname":"https://s3-ap-northeast-1.amazonaws.com/masui.org/7/8/78c5cd30047df5a38056d178563964c4.pdf","description":""}
 {"_id":{"$oid":"6534969d6ab21b000203b3ee"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"kurabe","longname":"https://kurabe-chizu.info/","description":"くらべ地図"}
 {"_id":{"$oid":"653c4d46d884c000021fce50"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"hkkb","longname":"https://scrapbox.io/HHKB-Studio/","description":"HHKB-Studio"}
-{"_id":{"$oid":"653c53a6d884c000021fce51"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"ap","longname":"https://scrapbox.io/HCI-Remixed-2023fall/","description":"Academic Project HCI-Remixed"}
 {"_id":{"$oid":"654332613f524e0002434447"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"db","longname":"https://drbweb.adst.keio.ac.jp/budget_saml/fraTop.jsp","description":"Dr. Budget"}
 {"_id":{"$oid":"65444372cb87c10002ce8f18"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"bit","longname":"https://scrapbox.io/bitmagazine/","description":"共立出版 コンピュータサイエンス誌『bit』"}
 {"_id":{"$oid":"6547369ff9961600021cad02"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"mame","longname":"https://scrapbox.io/mamechishiki/","description":"豆知識"}
@@ -584,10 +577,27 @@
 {"_id":{"$oid":"66179fd08aa61700024a137f"},"hash":"52517a94763e3becd5366f84b07ca0e3","shortname":"drop","longname":"https://www.dropbox.com/home","description":"Dropbox"}
 {"_id":{"$oid":"6617a7a48aa61700024a1380"},"hash":"52517a94763e3becd5366f84b07ca0e3","shortname":"bookmarklet","longname":"https://userjs.up.seesaa.net/js/bookmarklet.html","description":"bookmarklet maker"}
 {"_id":{"$oid":"661a17c892caed000256aafa"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"suzuyo","longname":"https://wsrv2.aztower.net/eps/szy/login","description":"ログイン/Web会員サイト"}
-{"_id":{"$oid":"6625ca8258792d00026b10d4"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"https://www.youtube.com/watch?v=rzgj7OXtasE","description":"(270) 【明治大学入学式 記念講演】「学問のテーマパーク」の楽しみ方・完全版（宮下芳明） - YouTube"}
 {"_id":{"$oid":"6629b48400714100025a7844"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tsukamoto","longname":"https://scrapbox.io/tsukamoto-suisen/","description":"塚本氏推薦文書"}
 {"_id":{"$oid":"662d961055aec60002376dd4"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"nenpyo","longname":"https://scrapbox.io/masui-nenpyo/%E5%B9%B4%E8%A1%A8","description":"年表 - 増井家年表"}
 {"_id":{"$oid":"66441d19f3e784000298fba2"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"shashi","longname":"https://scrapbox.io/Nota/%E7%A4%BE%E5%8F%B2%E3%83%87%E3%83%BC%E3%82%BF","description":"社史データ - Helpfeel (Nota)"}
 {"_id":{"$oid":"6649888e8dccf15622c422e7"},"hash":"","shortname":"tmp","longname":"http://example.com/","description":"tmp"}
 {"_id":{"$oid":"6649888f8dccf15622c422e8"},"hash":"","shortname":"","longname":"","description":""}
 {"_id":{"$oid":"6649cd31c90b2800022b45ed"},"hash":"03ef0fcf2a1ca5168675bcc5f936f83f","shortname":"goquick","longname":"https://scrapbox.io/GoQuick/","description":"GoQuickの紹介ページ"}
+{"_id":{"$oid":"6a0a96971790619fd594111e"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"bukken","longname":"","description":""}
+{"_id":{"$oid":"6a0a96af1790619fd594111f"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"alexa","longname":"","description":""}
+{"_id":{"$oid":"6a0a96be1790619fd5941120"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"ap","longname":"","description":""}
+{"_id":{"$oid":"6a0ab98d1790619fd5941121"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"kagi","longname":"https://kagi.com/assistant","description":""}
+{"_id":{"$oid":"6a0aba4a1790619fd5941122"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"awssignin","longname":"https://d-9067a0968f.awsapps.com/start/","description":""}
+{"_id":{"$oid":"6a0aba791790619fd5941123"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"assistant","longname":"https://kagi.com/assistant","description":""}
+{"_id":{"$oid":"6a0aba7d1790619fd5941124"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"chat","longname":"https://chat.google.com/","description":""}
+{"_id":{"$oid":"6a0abb311790619fd5941125"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"support","longname":"https://docs.google.com/spreadsheets/d/1_DGTA7FteT1klPVXYqnVYkXYbJaxDrpqUILdXMNxxTk/edit?gid=2103714523#gid=2103714523","description":""}
+{"_id":{"$oid":"6a0afde81790619fd5941127"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tmp","longname":"http://oumugaeshi.com/オウム%20返し","description":"aaa"}
+{"_id":{"$oid":"6a0afe561790619fd5941128"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"to_my_phone","longname":"https://suumo.jp/chintai/jnc_000106183982/","description":""}
+{"_id":{"$oid":"6a0b00471790619fd5941129"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"tsujido","longname":"http://oumugaeshi.com/〒251-0041%20藤沢市辻堂神台1-6-1%20ライオンズ一条レジデンス湘南C-X 628号室","description":"辻堂マンション"}
+{"_id":{"$oid":"6a0b01181790619fd594112a"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"m","longname":"https://mapfeel.com/masuimap","description":"masuimap"}
+{"_id":{"$oid":"6a0b15361790619fd594112b"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"adachiku","longname":"https://www.city.adachi.tokyo.jp/","description":""}
+{"_id":{"$oid":"6a0b8c1c1790619fd594112c"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"sss","longname":"","description":""}
+{"_id":{"$oid":"6a0b964d1790619fd594112d"},"hash":"3f9394b7eff03dddfa055e321f0c4df3","shortname":"xxx","longname":"https://scrapbox.io/efbf0d4988beb0c15b42dda7","description":""}
+{"_id":{"$oid":"6a0bb76c1790619fd594112e"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"classweb","longname":"https://morson-class-web-dev.com/","description":""}
+{"_id":{"$oid":"6a0bc9f41790619fd594112f"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"shiire","longname":"https://docs.google.com/spreadsheets/d/1NfpPg4Lnfcp71pXMEgbFq8Jl6DrGnRFmGN9xMJWIYiM/edit?gid=507135039#gid=507135039","description":""}
+{"_id":{"$oid":"6a0bccbb1790619fd5941130"},"hash":"ab2b38c8ac2761890c989d9288ca5d52","shortname":"dawtank","longname":"http://www.redmine-bcd-morson.be/projects/tfm-004/wiki","description":""}
